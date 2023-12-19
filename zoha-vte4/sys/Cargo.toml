@@ -1,6 +1,6 @@
 [package]
 name = "zoha-vte4-sys"
-version = "0.0.1"
+version = "0.0.2"
 license = "MIT"
 description = "FFI bindings to vte-2.91-gtk4, temporary clone of orignial GTK work"
 repository = "https://github.com/hkoosha/zoha-vte4"
@@ -47,5 +47,5 @@ tempfile = "3"
 [features]
 v0_65 = []
 v0_66 = ["v0_65"]
-v0_70 = ["v0_66"]
+v0_70 = []
 v0_72 = ["v0_70"]

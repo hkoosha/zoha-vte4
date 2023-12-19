@@ -1,6 +1,6 @@
 [package]
 name = "zoha-vte4"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Koosha Hosseiny <i@koosha.io>"]
 categories = ["api-bindings"]
 description = "Rust bindings for the VTE Gtk4 library, temporary clone of original GTK work"
